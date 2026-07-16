@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Generated artifacts (rebuilt by `python -m src.pipeline`)
+data/processed/
+# Synthetic source CSVs (data/synthetic/) are committed so the repo is
+# browsable on GitHub without running anything.
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Secrets — never commit API keys
+.env
+.streamlit/secrets.toml
+
+# OS
+.DS_Store

@@ -1,0 +1,9 @@
+data_center_site,metro,country,region,planned_compute_capacity_mw,planned_gpu_capacity,project_phase,required_capacity_date,installation_start_date
+ATL-01,"Atlanta, GA",United States,AMER,120,80000,Phase 2 expansion,2027-02-12,2026-10-14
+CBUS-02,"New Albany, OH",United States,AMER,200,150000,Phase 1 build,2027-05-15,2026-11-14
+DFW-03,"Fort Worth, TX",United States,AMER,150,100000,Phase 1 build,2027-03-15,2026-10-14
+PHX-04,"Goodyear, AZ",United States,AMER,250,180000,Greenfield,2027-09-13,2027-01-13
+RIC-05,"Richmond, VA",United States,AMER,90,60000,Phase 3 expansion,2026-12-14,2026-09-14
+DUB-06,Dublin,Ireland,EMEA,100,70000,Phase 1 build,2027-06-14,2026-12-14
+SIN-07,Singapore,Singapore,APAC,60,40000,Phase 2 expansion,2027-04-14,2026-11-13
+SLC-08,"Salt Lake City, UT",United States,AMER,180,130000,Greenfield,2027-11-13,2027-02-13

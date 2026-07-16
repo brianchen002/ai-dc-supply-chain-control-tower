@@ -1,0 +1,42 @@
+email_id,from_addr,subject,received,body
+MSG-001,allocation@nvidianetworking.example.com,Revised outlook — Quantum-X800 switch orders,2026-07-14,"Dear Meridian procurement team,
+
+Due to a production line changeover for Quantum-X800 switch (NVI-IS-2889),
+shipments against PO-1124 are expected to slip approximately 2 weeks
+beyond the committed date. We apologize for the disruption and will confirm a
+recovery schedule by Friday."
+MSG-002,orders@supermicro.example.com,Delivery update: PO-2007,2026-07-13,"Hello,
+
+Heads-up that PO-2007 (44x 4U 8-GPU air-cooled server)
+is running about 10 days behind plan due to component shortages on our side.
+Revised packing list to follow."
+MSG-003,support@vertiv.example.com,CDU production constraint notice,2026-07-12,"To our valued customers,
+
+We are experiencing a supply constraint affecting CRAH unit units
+(part family MOT-CS-). Open orders may be delayed by up to 3 weeks.
+Our team will follow up with order-level impacts next week."
+MSG-004,projects@caterpillar.example.com,Genset assembly backlog — schedule risk,2026-07-11,"Dear partner,
+
+Engine supply issues have pushed our 3MW diesel genset assembly backlog out by
+roughly 30 days. Orders placed after March are most affected."
+MSG-005,allocation@nvidia.example.com,Q3 allocation adjustment,2026-07-13,"Allocation notice:
+
+Your Q3 allocation for DGX B200 system systems has been reduced by 15%
+due to upstream HBM supply constraints. Affected order quantities will be
+confirmed in the next allocation cycle."
+MSG-006,logistics@hyundaielectric.example.com,Expedite confirmed — PO-1928,2026-07-10,"Good news: we secured an earlier test slot and PO-1928
+(Substation transformer) is now tracking 3 weeks ahead of the revised schedule.
+Updated shipping documents attached."
+MSG-007,orders@schneiderelectric.example.com,Pull-in accepted for PO-2447,2026-07-09,"Confirming the requested pull-in: PO-2447 will ship
+7 days earlier than committed."
+MSG-008,notices@kuehne-nagel.example.com,Port congestion advisory — trans-Pacific eastbound,2026-07-14,"Advisory: vessel bunching at Kaohsiung and LA/Long Beach is adding
+7-10 days to trans-Pacific ocean transits this month. Shipments from Taiwan
+origins are most affected. Air capacity remains available at premium rates."
+MSG-009,customs@dbschenker.example.com,Customs hold — inbound consignment,2026-07-13,"One inbound consignment for PO-1315
+is held for customs valuation review at the port of entry. Typical clearance
+for this review type is 5-8 business days."
+MSG-010,quality@graybar.example.com,QA hold: RAR-PDU-6341,2026-07-12,"Quality notification: a torque-spec deviation was found in a recent
+Rack PDU metered lot (RAR-PDU-6341). Outbound shipments are held
+pending re-inspection, estimated 6 days."
+MSG-011,billing@wwt.example.com,Invoice reminder — August statement,2026-07-11,Friendly reminder that invoice batch #88231 is due at the end of the month.
+MSG-012,events@vertiv.example.com,Webinar: liquid cooling best practices,2026-07-10,Join our webinar next Thursday on rear-door heat exchanger deployment patterns.

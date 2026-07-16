@@ -1,0 +1,889 @@
+data_center_site,equipment_category,month,planned_units
+ATL-01,GPU Servers,2026-07-01,6
+ATL-01,GPU Servers,2026-08-01,12
+ATL-01,GPU Servers,2026-09-01,18
+ATL-01,GPU Servers,2026-10-01,24
+ATL-01,GPU Servers,2026-11-01,30
+ATL-01,GPU Servers,2026-12-01,36
+ATL-01,GPU Servers,2027-01-01,43
+ATL-01,NVIDIA GPU Systems,2026-07-01,1
+ATL-01,NVIDIA GPU Systems,2026-08-01,3
+ATL-01,NVIDIA GPU Systems,2026-09-01,4
+ATL-01,NVIDIA GPU Systems,2026-10-01,6
+ATL-01,NVIDIA GPU Systems,2026-11-01,7
+ATL-01,NVIDIA GPU Systems,2026-12-01,9
+ATL-01,NVIDIA GPU Systems,2027-01-01,10
+ATL-01,InfiniBand Switches,2026-07-01,3
+ATL-01,InfiniBand Switches,2026-08-01,7
+ATL-01,InfiniBand Switches,2026-09-01,11
+ATL-01,InfiniBand Switches,2026-10-01,15
+ATL-01,InfiniBand Switches,2026-11-01,19
+ATL-01,InfiniBand Switches,2026-12-01,23
+ATL-01,InfiniBand Switches,2027-01-01,27
+ATL-01,Network Equipment,2026-07-01,4
+ATL-01,Network Equipment,2026-08-01,9
+ATL-01,Network Equipment,2026-09-01,13
+ATL-01,Network Equipment,2026-10-01,18
+ATL-01,Network Equipment,2026-11-01,23
+ATL-01,Network Equipment,2026-12-01,27
+ATL-01,Network Equipment,2027-01-01,32
+ATL-01,Transformers,2026-07-01,0
+ATL-01,Transformers,2026-08-01,0
+ATL-01,Transformers,2026-09-01,0
+ATL-01,Transformers,2026-10-01,0
+ATL-01,Transformers,2026-11-01,0
+ATL-01,Transformers,2026-12-01,0
+ATL-01,Transformers,2027-01-01,0
+ATL-01,Chillers,2026-07-01,0
+ATL-01,Chillers,2026-08-01,0
+ATL-01,Chillers,2026-09-01,0
+ATL-01,Chillers,2026-10-01,0
+ATL-01,Chillers,2026-11-01,0
+ATL-01,Chillers,2026-12-01,0
+ATL-01,Chillers,2027-01-01,0
+ATL-01,Cooling Systems,2026-07-01,1
+ATL-01,Cooling Systems,2026-08-01,3
+ATL-01,Cooling Systems,2026-09-01,4
+ATL-01,Cooling Systems,2026-10-01,6
+ATL-01,Cooling Systems,2026-11-01,7
+ATL-01,Cooling Systems,2026-12-01,9
+ATL-01,Cooling Systems,2027-01-01,10
+ATL-01,UPS Systems,2026-07-01,0
+ATL-01,UPS Systems,2026-08-01,0
+ATL-01,UPS Systems,2026-09-01,0
+ATL-01,UPS Systems,2026-10-01,0
+ATL-01,UPS Systems,2026-11-01,1
+ATL-01,UPS Systems,2026-12-01,1
+ATL-01,UPS Systems,2027-01-01,1
+ATL-01,Power Distribution Units,2026-07-01,11
+ATL-01,Power Distribution Units,2026-08-01,23
+ATL-01,Power Distribution Units,2026-09-01,34
+ATL-01,Power Distribution Units,2026-10-01,46
+ATL-01,Power Distribution Units,2026-11-01,57
+ATL-01,Power Distribution Units,2026-12-01,69
+ATL-01,Power Distribution Units,2027-01-01,81
+ATL-01,Storage Systems,2026-07-01,0
+ATL-01,Storage Systems,2026-08-01,1
+ATL-01,Storage Systems,2026-09-01,1
+ATL-01,Storage Systems,2026-10-01,2
+ATL-01,Storage Systems,2026-11-01,3
+ATL-01,Storage Systems,2026-12-01,3
+ATL-01,Storage Systems,2027-01-01,4
+ATL-01,Racks,2026-07-01,12
+ATL-01,Racks,2026-08-01,25
+ATL-01,Racks,2026-09-01,37
+ATL-01,Racks,2026-10-01,50
+ATL-01,Racks,2026-11-01,62
+ATL-01,Racks,2026-12-01,75
+ATL-01,Racks,2027-01-01,87
+ATL-01,Backup Generators,2026-07-01,0
+ATL-01,Backup Generators,2026-08-01,0
+ATL-01,Backup Generators,2026-09-01,0
+ATL-01,Backup Generators,2026-10-01,0
+ATL-01,Backup Generators,2026-11-01,0
+ATL-01,Backup Generators,2026-12-01,0
+ATL-01,Backup Generators,2027-01-01,0
+CBUS-02,GPU Servers,2026-07-01,5
+CBUS-02,GPU Servers,2026-08-01,10
+CBUS-02,GPU Servers,2026-09-01,15
+CBUS-02,GPU Servers,2026-10-01,20
+CBUS-02,GPU Servers,2026-11-01,26
+CBUS-02,GPU Servers,2026-12-01,31
+CBUS-02,GPU Servers,2027-01-01,36
+CBUS-02,GPU Servers,2027-02-01,41
+CBUS-02,GPU Servers,2027-03-01,47
+CBUS-02,GPU Servers,2027-04-01,52
+CBUS-02,NVIDIA GPU Systems,2026-07-01,1
+CBUS-02,NVIDIA GPU Systems,2026-08-01,2
+CBUS-02,NVIDIA GPU Systems,2026-09-01,3
+CBUS-02,NVIDIA GPU Systems,2026-10-01,5
+CBUS-02,NVIDIA GPU Systems,2026-11-01,6
+CBUS-02,NVIDIA GPU Systems,2026-12-01,7
+CBUS-02,NVIDIA GPU Systems,2027-01-01,9
+CBUS-02,NVIDIA GPU Systems,2027-02-01,10
+CBUS-02,NVIDIA GPU Systems,2027-03-01,11
+CBUS-02,NVIDIA GPU Systems,2027-04-01,13
+CBUS-02,InfiniBand Switches,2026-07-01,3
+CBUS-02,InfiniBand Switches,2026-08-01,6
+CBUS-02,InfiniBand Switches,2026-09-01,9
+CBUS-02,InfiniBand Switches,2026-10-01,13
+CBUS-02,InfiniBand Switches,2026-11-01,16
+CBUS-02,InfiniBand Switches,2026-12-01,19
+CBUS-02,InfiniBand Switches,2027-01-01,22
+CBUS-02,InfiniBand Switches,2027-02-01,26
+CBUS-02,InfiniBand Switches,2027-03-01,29
+CBUS-02,InfiniBand Switches,2027-04-01,32
+CBUS-02,Network Equipment,2026-07-01,3
+CBUS-02,Network Equipment,2026-08-01,7
+CBUS-02,Network Equipment,2026-09-01,11
+CBUS-02,Network Equipment,2026-10-01,15
+CBUS-02,Network Equipment,2026-11-01,19
+CBUS-02,Network Equipment,2026-12-01,23
+CBUS-02,Network Equipment,2027-01-01,27
+CBUS-02,Network Equipment,2027-02-01,31
+CBUS-02,Network Equipment,2027-03-01,35
+CBUS-02,Network Equipment,2027-04-01,39
+CBUS-02,Transformers,2026-07-01,0
+CBUS-02,Transformers,2026-08-01,0
+CBUS-02,Transformers,2026-09-01,0
+CBUS-02,Transformers,2026-10-01,0
+CBUS-02,Transformers,2026-11-01,0
+CBUS-02,Transformers,2026-12-01,0
+CBUS-02,Transformers,2027-01-01,0
+CBUS-02,Transformers,2027-02-01,0
+CBUS-02,Transformers,2027-03-01,0
+CBUS-02,Transformers,2027-04-01,0
+CBUS-02,Chillers,2026-07-01,0
+CBUS-02,Chillers,2026-08-01,0
+CBUS-02,Chillers,2026-09-01,0
+CBUS-02,Chillers,2026-10-01,0
+CBUS-02,Chillers,2026-11-01,0
+CBUS-02,Chillers,2026-12-01,0
+CBUS-02,Chillers,2027-01-01,0
+CBUS-02,Chillers,2027-02-01,0
+CBUS-02,Chillers,2027-03-01,0
+CBUS-02,Chillers,2027-04-01,0
+CBUS-02,Cooling Systems,2026-07-01,1
+CBUS-02,Cooling Systems,2026-08-01,2
+CBUS-02,Cooling Systems,2026-09-01,3
+CBUS-02,Cooling Systems,2026-10-01,5
+CBUS-02,Cooling Systems,2026-11-01,6
+CBUS-02,Cooling Systems,2026-12-01,7
+CBUS-02,Cooling Systems,2027-01-01,9
+CBUS-02,Cooling Systems,2027-02-01,10
+CBUS-02,Cooling Systems,2027-03-01,11
+CBUS-02,Cooling Systems,2027-04-01,13
+CBUS-02,UPS Systems,2026-07-01,0
+CBUS-02,UPS Systems,2026-08-01,0
+CBUS-02,UPS Systems,2026-09-01,0
+CBUS-02,UPS Systems,2026-10-01,0
+CBUS-02,UPS Systems,2026-11-01,0
+CBUS-02,UPS Systems,2026-12-01,1
+CBUS-02,UPS Systems,2027-01-01,1
+CBUS-02,UPS Systems,2027-02-01,1
+CBUS-02,UPS Systems,2027-03-01,1
+CBUS-02,UPS Systems,2027-04-01,1
+CBUS-02,Power Distribution Units,2026-07-01,9
+CBUS-02,Power Distribution Units,2026-08-01,19
+CBUS-02,Power Distribution Units,2026-09-01,29
+CBUS-02,Power Distribution Units,2026-10-01,39
+CBUS-02,Power Distribution Units,2026-11-01,49
+CBUS-02,Power Distribution Units,2026-12-01,58
+CBUS-02,Power Distribution Units,2027-01-01,68
+CBUS-02,Power Distribution Units,2027-02-01,78
+CBUS-02,Power Distribution Units,2027-03-01,88
+CBUS-02,Power Distribution Units,2027-04-01,98
+CBUS-02,Storage Systems,2026-07-01,0
+CBUS-02,Storage Systems,2026-08-01,1
+CBUS-02,Storage Systems,2026-09-01,1
+CBUS-02,Storage Systems,2026-10-01,2
+CBUS-02,Storage Systems,2026-11-01,2
+CBUS-02,Storage Systems,2026-12-01,3
+CBUS-02,Storage Systems,2027-01-01,3
+CBUS-02,Storage Systems,2027-02-01,4
+CBUS-02,Storage Systems,2027-03-01,5
+CBUS-02,Storage Systems,2027-04-01,5
+CBUS-02,Racks,2026-07-01,10
+CBUS-02,Racks,2026-08-01,21
+CBUS-02,Racks,2026-09-01,31
+CBUS-02,Racks,2026-10-01,42
+CBUS-02,Racks,2026-11-01,53
+CBUS-02,Racks,2026-12-01,63
+CBUS-02,Racks,2027-01-01,74
+CBUS-02,Racks,2027-02-01,85
+CBUS-02,Racks,2027-03-01,95
+CBUS-02,Racks,2027-04-01,106
+CBUS-02,Backup Generators,2026-07-01,0
+CBUS-02,Backup Generators,2026-08-01,0
+CBUS-02,Backup Generators,2026-09-01,0
+CBUS-02,Backup Generators,2026-10-01,0
+CBUS-02,Backup Generators,2026-11-01,0
+CBUS-02,Backup Generators,2026-12-01,0
+CBUS-02,Backup Generators,2027-01-01,0
+CBUS-02,Backup Generators,2027-02-01,0
+CBUS-02,Backup Generators,2027-03-01,0
+CBUS-02,Backup Generators,2027-04-01,0
+DFW-03,GPU Servers,2026-07-01,6
+DFW-03,GPU Servers,2026-08-01,12
+DFW-03,GPU Servers,2026-09-01,18
+DFW-03,GPU Servers,2026-10-01,24
+DFW-03,GPU Servers,2026-11-01,30
+DFW-03,GPU Servers,2026-12-01,36
+DFW-03,GPU Servers,2027-01-01,42
+DFW-03,GPU Servers,2027-02-01,48
+DFW-03,NVIDIA GPU Systems,2026-07-01,1
+DFW-03,NVIDIA GPU Systems,2026-08-01,3
+DFW-03,NVIDIA GPU Systems,2026-09-01,4
+DFW-03,NVIDIA GPU Systems,2026-10-01,6
+DFW-03,NVIDIA GPU Systems,2026-11-01,7
+DFW-03,NVIDIA GPU Systems,2026-12-01,9
+DFW-03,NVIDIA GPU Systems,2027-01-01,10
+DFW-03,NVIDIA GPU Systems,2027-02-01,12
+DFW-03,InfiniBand Switches,2026-07-01,3
+DFW-03,InfiniBand Switches,2026-08-01,7
+DFW-03,InfiniBand Switches,2026-09-01,11
+DFW-03,InfiniBand Switches,2026-10-01,15
+DFW-03,InfiniBand Switches,2026-11-01,18
+DFW-03,InfiniBand Switches,2026-12-01,22
+DFW-03,InfiniBand Switches,2027-01-01,26
+DFW-03,InfiniBand Switches,2027-02-01,30
+DFW-03,Network Equipment,2026-07-01,4
+DFW-03,Network Equipment,2026-08-01,9
+DFW-03,Network Equipment,2026-09-01,13
+DFW-03,Network Equipment,2026-10-01,18
+DFW-03,Network Equipment,2026-11-01,22
+DFW-03,Network Equipment,2026-12-01,27
+DFW-03,Network Equipment,2027-01-01,31
+DFW-03,Network Equipment,2027-02-01,36
+DFW-03,Transformers,2026-07-01,0
+DFW-03,Transformers,2026-08-01,0
+DFW-03,Transformers,2026-09-01,0
+DFW-03,Transformers,2026-10-01,0
+DFW-03,Transformers,2026-11-01,0
+DFW-03,Transformers,2026-12-01,0
+DFW-03,Transformers,2027-01-01,0
+DFW-03,Transformers,2027-02-01,0
+DFW-03,Chillers,2026-07-01,0
+DFW-03,Chillers,2026-08-01,0
+DFW-03,Chillers,2026-09-01,0
+DFW-03,Chillers,2026-10-01,0
+DFW-03,Chillers,2026-11-01,0
+DFW-03,Chillers,2026-12-01,0
+DFW-03,Chillers,2027-01-01,0
+DFW-03,Chillers,2027-02-01,0
+DFW-03,Cooling Systems,2026-07-01,1
+DFW-03,Cooling Systems,2026-08-01,3
+DFW-03,Cooling Systems,2026-09-01,4
+DFW-03,Cooling Systems,2026-10-01,6
+DFW-03,Cooling Systems,2026-11-01,7
+DFW-03,Cooling Systems,2026-12-01,9
+DFW-03,Cooling Systems,2027-01-01,10
+DFW-03,Cooling Systems,2027-02-01,12
+DFW-03,UPS Systems,2026-07-01,0
+DFW-03,UPS Systems,2026-08-01,0
+DFW-03,UPS Systems,2026-09-01,0
+DFW-03,UPS Systems,2026-10-01,0
+DFW-03,UPS Systems,2026-11-01,1
+DFW-03,UPS Systems,2026-12-01,1
+DFW-03,UPS Systems,2027-01-01,1
+DFW-03,UPS Systems,2027-02-01,1
+DFW-03,Power Distribution Units,2026-07-01,11
+DFW-03,Power Distribution Units,2026-08-01,22
+DFW-03,Power Distribution Units,2026-09-01,33
+DFW-03,Power Distribution Units,2026-10-01,45
+DFW-03,Power Distribution Units,2026-11-01,56
+DFW-03,Power Distribution Units,2026-12-01,67
+DFW-03,Power Distribution Units,2027-01-01,78
+DFW-03,Power Distribution Units,2027-02-01,90
+DFW-03,Storage Systems,2026-07-01,0
+DFW-03,Storage Systems,2026-08-01,1
+DFW-03,Storage Systems,2026-09-01,1
+DFW-03,Storage Systems,2026-10-01,2
+DFW-03,Storage Systems,2026-11-01,3
+DFW-03,Storage Systems,2026-12-01,3
+DFW-03,Storage Systems,2027-01-01,4
+DFW-03,Storage Systems,2027-02-01,5
+DFW-03,Racks,2026-07-01,12
+DFW-03,Racks,2026-08-01,24
+DFW-03,Racks,2026-09-01,36
+DFW-03,Racks,2026-10-01,48
+DFW-03,Racks,2026-11-01,60
+DFW-03,Racks,2026-12-01,73
+DFW-03,Racks,2027-01-01,85
+DFW-03,Racks,2027-02-01,97
+DFW-03,Backup Generators,2026-07-01,0
+DFW-03,Backup Generators,2026-08-01,0
+DFW-03,Backup Generators,2026-09-01,0
+DFW-03,Backup Generators,2026-10-01,0
+DFW-03,Backup Generators,2026-11-01,0
+DFW-03,Backup Generators,2026-12-01,0
+DFW-03,Backup Generators,2027-01-01,0
+DFW-03,Backup Generators,2027-02-01,0
+PHX-04,GPU Servers,2026-07-01,4
+PHX-04,GPU Servers,2026-08-01,9
+PHX-04,GPU Servers,2026-09-01,13
+PHX-04,GPU Servers,2026-10-01,18
+PHX-04,GPU Servers,2026-11-01,23
+PHX-04,GPU Servers,2026-12-01,27
+PHX-04,GPU Servers,2027-01-01,32
+PHX-04,GPU Servers,2027-02-01,36
+PHX-04,GPU Servers,2027-03-01,41
+PHX-04,GPU Servers,2027-04-01,46
+PHX-04,GPU Servers,2027-05-01,50
+PHX-04,GPU Servers,2027-06-01,55
+PHX-04,NVIDIA GPU Systems,2026-07-01,1
+PHX-04,NVIDIA GPU Systems,2026-08-01,2
+PHX-04,NVIDIA GPU Systems,2026-09-01,3
+PHX-04,NVIDIA GPU Systems,2026-10-01,4
+PHX-04,NVIDIA GPU Systems,2026-11-01,5
+PHX-04,NVIDIA GPU Systems,2026-12-01,6
+PHX-04,NVIDIA GPU Systems,2027-01-01,8
+PHX-04,NVIDIA GPU Systems,2027-02-01,9
+PHX-04,NVIDIA GPU Systems,2027-03-01,10
+PHX-04,NVIDIA GPU Systems,2027-04-01,11
+PHX-04,NVIDIA GPU Systems,2027-05-01,12
+PHX-04,NVIDIA GPU Systems,2027-06-01,13
+PHX-04,InfiniBand Switches,2026-07-01,2
+PHX-04,InfiniBand Switches,2026-08-01,5
+PHX-04,InfiniBand Switches,2026-09-01,8
+PHX-04,InfiniBand Switches,2026-10-01,11
+PHX-04,InfiniBand Switches,2026-11-01,14
+PHX-04,InfiniBand Switches,2026-12-01,17
+PHX-04,InfiniBand Switches,2027-01-01,20
+PHX-04,InfiniBand Switches,2027-02-01,23
+PHX-04,InfiniBand Switches,2027-03-01,25
+PHX-04,InfiniBand Switches,2027-04-01,28
+PHX-04,InfiniBand Switches,2027-05-01,31
+PHX-04,InfiniBand Switches,2027-06-01,34
+PHX-04,Network Equipment,2026-07-01,3
+PHX-04,Network Equipment,2026-08-01,6
+PHX-04,Network Equipment,2026-09-01,10
+PHX-04,Network Equipment,2026-10-01,13
+PHX-04,Network Equipment,2026-11-01,17
+PHX-04,Network Equipment,2026-12-01,20
+PHX-04,Network Equipment,2027-01-01,24
+PHX-04,Network Equipment,2027-02-01,27
+PHX-04,Network Equipment,2027-03-01,31
+PHX-04,Network Equipment,2027-04-01,34
+PHX-04,Network Equipment,2027-05-01,38
+PHX-04,Network Equipment,2027-06-01,41
+PHX-04,Transformers,2026-07-01,0
+PHX-04,Transformers,2026-08-01,0
+PHX-04,Transformers,2026-09-01,0
+PHX-04,Transformers,2026-10-01,0
+PHX-04,Transformers,2026-11-01,0
+PHX-04,Transformers,2026-12-01,0
+PHX-04,Transformers,2027-01-01,0
+PHX-04,Transformers,2027-02-01,0
+PHX-04,Transformers,2027-03-01,0
+PHX-04,Transformers,2027-04-01,0
+PHX-04,Transformers,2027-05-01,0
+PHX-04,Transformers,2027-06-01,0
+PHX-04,Chillers,2026-07-01,0
+PHX-04,Chillers,2026-08-01,0
+PHX-04,Chillers,2026-09-01,0
+PHX-04,Chillers,2026-10-01,0
+PHX-04,Chillers,2026-11-01,0
+PHX-04,Chillers,2026-12-01,0
+PHX-04,Chillers,2027-01-01,0
+PHX-04,Chillers,2027-02-01,0
+PHX-04,Chillers,2027-03-01,0
+PHX-04,Chillers,2027-04-01,0
+PHX-04,Chillers,2027-05-01,0
+PHX-04,Chillers,2027-06-01,0
+PHX-04,Cooling Systems,2026-07-01,1
+PHX-04,Cooling Systems,2026-08-01,2
+PHX-04,Cooling Systems,2026-09-01,3
+PHX-04,Cooling Systems,2026-10-01,4
+PHX-04,Cooling Systems,2026-11-01,5
+PHX-04,Cooling Systems,2026-12-01,6
+PHX-04,Cooling Systems,2027-01-01,8
+PHX-04,Cooling Systems,2027-02-01,9
+PHX-04,Cooling Systems,2027-03-01,10
+PHX-04,Cooling Systems,2027-04-01,11
+PHX-04,Cooling Systems,2027-05-01,12
+PHX-04,Cooling Systems,2027-06-01,13
+PHX-04,UPS Systems,2026-07-01,0
+PHX-04,UPS Systems,2026-08-01,0
+PHX-04,UPS Systems,2026-09-01,0
+PHX-04,UPS Systems,2026-10-01,0
+PHX-04,UPS Systems,2026-11-01,0
+PHX-04,UPS Systems,2026-12-01,1
+PHX-04,UPS Systems,2027-01-01,1
+PHX-04,UPS Systems,2027-02-01,1
+PHX-04,UPS Systems,2027-03-01,1
+PHX-04,UPS Systems,2027-04-01,1
+PHX-04,UPS Systems,2027-05-01,1
+PHX-04,UPS Systems,2027-06-01,2
+PHX-04,Power Distribution Units,2026-07-01,8
+PHX-04,Power Distribution Units,2026-08-01,17
+PHX-04,Power Distribution Units,2026-09-01,25
+PHX-04,Power Distribution Units,2026-10-01,34
+PHX-04,Power Distribution Units,2026-11-01,43
+PHX-04,Power Distribution Units,2026-12-01,51
+PHX-04,Power Distribution Units,2027-01-01,60
+PHX-04,Power Distribution Units,2027-02-01,69
+PHX-04,Power Distribution Units,2027-03-01,77
+PHX-04,Power Distribution Units,2027-04-01,86
+PHX-04,Power Distribution Units,2027-05-01,95
+PHX-04,Power Distribution Units,2027-06-01,103
+PHX-04,Storage Systems,2026-07-01,0
+PHX-04,Storage Systems,2026-08-01,1
+PHX-04,Storage Systems,2026-09-01,1
+PHX-04,Storage Systems,2026-10-01,2
+PHX-04,Storage Systems,2026-11-01,2
+PHX-04,Storage Systems,2026-12-01,3
+PHX-04,Storage Systems,2027-01-01,3
+PHX-04,Storage Systems,2027-02-01,4
+PHX-04,Storage Systems,2027-03-01,4
+PHX-04,Storage Systems,2027-04-01,5
+PHX-04,Storage Systems,2027-05-01,5
+PHX-04,Storage Systems,2027-06-01,6
+PHX-04,Racks,2026-07-01,9
+PHX-04,Racks,2026-08-01,18
+PHX-04,Racks,2026-09-01,28
+PHX-04,Racks,2026-10-01,37
+PHX-04,Racks,2026-11-01,46
+PHX-04,Racks,2026-12-01,56
+PHX-04,Racks,2027-01-01,65
+PHX-04,Racks,2027-02-01,74
+PHX-04,Racks,2027-03-01,84
+PHX-04,Racks,2027-04-01,93
+PHX-04,Racks,2027-05-01,103
+PHX-04,Racks,2027-06-01,112
+PHX-04,Backup Generators,2026-07-01,0
+PHX-04,Backup Generators,2026-08-01,0
+PHX-04,Backup Generators,2026-09-01,0
+PHX-04,Backup Generators,2026-10-01,0
+PHX-04,Backup Generators,2026-11-01,0
+PHX-04,Backup Generators,2026-12-01,0
+PHX-04,Backup Generators,2027-01-01,0
+PHX-04,Backup Generators,2027-02-01,0
+PHX-04,Backup Generators,2027-03-01,0
+PHX-04,Backup Generators,2027-04-01,0
+PHX-04,Backup Generators,2027-05-01,0
+PHX-04,Backup Generators,2027-06-01,0
+RIC-05,GPU Servers,2026-07-01,8
+RIC-05,GPU Servers,2026-08-01,17
+RIC-05,GPU Servers,2026-09-01,25
+RIC-05,GPU Servers,2026-10-01,34
+RIC-05,GPU Servers,2026-11-01,43
+RIC-05,NVIDIA GPU Systems,2026-07-01,2
+RIC-05,NVIDIA GPU Systems,2026-08-01,4
+RIC-05,NVIDIA GPU Systems,2026-09-01,6
+RIC-05,NVIDIA GPU Systems,2026-10-01,8
+RIC-05,NVIDIA GPU Systems,2026-11-01,10
+RIC-05,InfiniBand Switches,2026-07-01,5
+RIC-05,InfiniBand Switches,2026-08-01,10
+RIC-05,InfiniBand Switches,2026-09-01,16
+RIC-05,InfiniBand Switches,2026-10-01,21
+RIC-05,InfiniBand Switches,2026-11-01,27
+RIC-05,Network Equipment,2026-07-01,6
+RIC-05,Network Equipment,2026-08-01,12
+RIC-05,Network Equipment,2026-09-01,19
+RIC-05,Network Equipment,2026-10-01,25
+RIC-05,Network Equipment,2026-11-01,32
+RIC-05,Transformers,2026-07-01,0
+RIC-05,Transformers,2026-08-01,0
+RIC-05,Transformers,2026-09-01,0
+RIC-05,Transformers,2026-10-01,0
+RIC-05,Transformers,2026-11-01,0
+RIC-05,Chillers,2026-07-01,0
+RIC-05,Chillers,2026-08-01,0
+RIC-05,Chillers,2026-09-01,0
+RIC-05,Chillers,2026-10-01,0
+RIC-05,Chillers,2026-11-01,0
+RIC-05,Cooling Systems,2026-07-01,2
+RIC-05,Cooling Systems,2026-08-01,4
+RIC-05,Cooling Systems,2026-09-01,6
+RIC-05,Cooling Systems,2026-10-01,8
+RIC-05,Cooling Systems,2026-11-01,10
+RIC-05,UPS Systems,2026-07-01,0
+RIC-05,UPS Systems,2026-08-01,0
+RIC-05,UPS Systems,2026-09-01,0
+RIC-05,UPS Systems,2026-10-01,1
+RIC-05,UPS Systems,2026-11-01,1
+RIC-05,Power Distribution Units,2026-07-01,16
+RIC-05,Power Distribution Units,2026-08-01,32
+RIC-05,Power Distribution Units,2026-09-01,48
+RIC-05,Power Distribution Units,2026-10-01,64
+RIC-05,Power Distribution Units,2026-11-01,81
+RIC-05,Storage Systems,2026-07-01,0
+RIC-05,Storage Systems,2026-08-01,1
+RIC-05,Storage Systems,2026-09-01,2
+RIC-05,Storage Systems,2026-10-01,3
+RIC-05,Storage Systems,2026-11-01,4
+RIC-05,Racks,2026-07-01,17
+RIC-05,Racks,2026-08-01,35
+RIC-05,Racks,2026-09-01,52
+RIC-05,Racks,2026-10-01,70
+RIC-05,Racks,2026-11-01,87
+RIC-05,Backup Generators,2026-07-01,0
+RIC-05,Backup Generators,2026-08-01,0
+RIC-05,Backup Generators,2026-09-01,0
+RIC-05,Backup Generators,2026-10-01,0
+RIC-05,Backup Generators,2026-11-01,0
+DUB-06,GPU Servers,2026-07-01,2
+DUB-06,GPU Servers,2026-08-01,4
+DUB-06,GPU Servers,2026-09-01,6
+DUB-06,GPU Servers,2026-10-01,8
+DUB-06,GPU Servers,2026-11-01,10
+DUB-06,GPU Servers,2026-12-01,13
+DUB-06,GPU Servers,2027-01-01,15
+DUB-06,GPU Servers,2027-02-01,17
+DUB-06,GPU Servers,2027-03-01,19
+DUB-06,GPU Servers,2027-04-01,21
+DUB-06,GPU Servers,2027-05-01,24
+DUB-06,NVIDIA GPU Systems,2026-07-01,0
+DUB-06,NVIDIA GPU Systems,2026-08-01,1
+DUB-06,NVIDIA GPU Systems,2026-09-01,1
+DUB-06,NVIDIA GPU Systems,2026-10-01,2
+DUB-06,NVIDIA GPU Systems,2026-11-01,2
+DUB-06,NVIDIA GPU Systems,2026-12-01,3
+DUB-06,NVIDIA GPU Systems,2027-01-01,3
+DUB-06,NVIDIA GPU Systems,2027-02-01,4
+DUB-06,NVIDIA GPU Systems,2027-03-01,4
+DUB-06,NVIDIA GPU Systems,2027-04-01,5
+DUB-06,NVIDIA GPU Systems,2027-05-01,6
+DUB-06,InfiniBand Switches,2026-07-01,1
+DUB-06,InfiniBand Switches,2026-08-01,2
+DUB-06,InfiniBand Switches,2026-09-01,4
+DUB-06,InfiniBand Switches,2026-10-01,5
+DUB-06,InfiniBand Switches,2026-11-01,6
+DUB-06,InfiniBand Switches,2026-12-01,8
+DUB-06,InfiniBand Switches,2027-01-01,9
+DUB-06,InfiniBand Switches,2027-02-01,10
+DUB-06,InfiniBand Switches,2027-03-01,12
+DUB-06,InfiniBand Switches,2027-04-01,13
+DUB-06,InfiniBand Switches,2027-05-01,15
+DUB-06,Network Equipment,2026-07-01,1
+DUB-06,Network Equipment,2026-08-01,3
+DUB-06,Network Equipment,2026-09-01,4
+DUB-06,Network Equipment,2026-10-01,6
+DUB-06,Network Equipment,2026-11-01,8
+DUB-06,Network Equipment,2026-12-01,9
+DUB-06,Network Equipment,2027-01-01,11
+DUB-06,Network Equipment,2027-02-01,13
+DUB-06,Network Equipment,2027-03-01,14
+DUB-06,Network Equipment,2027-04-01,16
+DUB-06,Network Equipment,2027-05-01,18
+DUB-06,Transformers,2026-07-01,0
+DUB-06,Transformers,2026-08-01,0
+DUB-06,Transformers,2026-09-01,0
+DUB-06,Transformers,2026-10-01,0
+DUB-06,Transformers,2026-11-01,0
+DUB-06,Transformers,2026-12-01,0
+DUB-06,Transformers,2027-01-01,0
+DUB-06,Transformers,2027-02-01,0
+DUB-06,Transformers,2027-03-01,0
+DUB-06,Transformers,2027-04-01,0
+DUB-06,Transformers,2027-05-01,0
+DUB-06,Chillers,2026-07-01,0
+DUB-06,Chillers,2026-08-01,0
+DUB-06,Chillers,2026-09-01,0
+DUB-06,Chillers,2026-10-01,0
+DUB-06,Chillers,2026-11-01,0
+DUB-06,Chillers,2026-12-01,0
+DUB-06,Chillers,2027-01-01,0
+DUB-06,Chillers,2027-02-01,0
+DUB-06,Chillers,2027-03-01,0
+DUB-06,Chillers,2027-04-01,0
+DUB-06,Chillers,2027-05-01,0
+DUB-06,Cooling Systems,2026-07-01,0
+DUB-06,Cooling Systems,2026-08-01,1
+DUB-06,Cooling Systems,2026-09-01,1
+DUB-06,Cooling Systems,2026-10-01,2
+DUB-06,Cooling Systems,2026-11-01,2
+DUB-06,Cooling Systems,2026-12-01,3
+DUB-06,Cooling Systems,2027-01-01,3
+DUB-06,Cooling Systems,2027-02-01,4
+DUB-06,Cooling Systems,2027-03-01,4
+DUB-06,Cooling Systems,2027-04-01,5
+DUB-06,Cooling Systems,2027-05-01,6
+DUB-06,UPS Systems,2026-07-01,0
+DUB-06,UPS Systems,2026-08-01,0
+DUB-06,UPS Systems,2026-09-01,0
+DUB-06,UPS Systems,2026-10-01,0
+DUB-06,UPS Systems,2026-11-01,0
+DUB-06,UPS Systems,2026-12-01,0
+DUB-06,UPS Systems,2027-01-01,0
+DUB-06,UPS Systems,2027-02-01,0
+DUB-06,UPS Systems,2027-03-01,0
+DUB-06,UPS Systems,2027-04-01,0
+DUB-06,UPS Systems,2027-05-01,0
+DUB-06,Power Distribution Units,2026-07-01,4
+DUB-06,Power Distribution Units,2026-08-01,8
+DUB-06,Power Distribution Units,2026-09-01,12
+DUB-06,Power Distribution Units,2026-10-01,16
+DUB-06,Power Distribution Units,2026-11-01,20
+DUB-06,Power Distribution Units,2026-12-01,24
+DUB-06,Power Distribution Units,2027-01-01,28
+DUB-06,Power Distribution Units,2027-02-01,32
+DUB-06,Power Distribution Units,2027-03-01,36
+DUB-06,Power Distribution Units,2027-04-01,40
+DUB-06,Power Distribution Units,2027-05-01,45
+DUB-06,Storage Systems,2026-07-01,0
+DUB-06,Storage Systems,2026-08-01,0
+DUB-06,Storage Systems,2026-09-01,0
+DUB-06,Storage Systems,2026-10-01,0
+DUB-06,Storage Systems,2026-11-01,1
+DUB-06,Storage Systems,2026-12-01,1
+DUB-06,Storage Systems,2027-01-01,1
+DUB-06,Storage Systems,2027-02-01,1
+DUB-06,Storage Systems,2027-03-01,2
+DUB-06,Storage Systems,2027-04-01,2
+DUB-06,Storage Systems,2027-05-01,2
+DUB-06,Racks,2026-07-01,4
+DUB-06,Racks,2026-08-01,8
+DUB-06,Racks,2026-09-01,13
+DUB-06,Racks,2026-10-01,17
+DUB-06,Racks,2026-11-01,22
+DUB-06,Racks,2026-12-01,26
+DUB-06,Racks,2027-01-01,30
+DUB-06,Racks,2027-02-01,35
+DUB-06,Racks,2027-03-01,39
+DUB-06,Racks,2027-04-01,44
+DUB-06,Racks,2027-05-01,48
+DUB-06,Backup Generators,2026-07-01,0
+DUB-06,Backup Generators,2026-08-01,0
+DUB-06,Backup Generators,2026-09-01,0
+DUB-06,Backup Generators,2026-10-01,0
+DUB-06,Backup Generators,2026-11-01,0
+DUB-06,Backup Generators,2026-12-01,0
+DUB-06,Backup Generators,2027-01-01,0
+DUB-06,Backup Generators,2027-02-01,0
+DUB-06,Backup Generators,2027-03-01,0
+DUB-06,Backup Generators,2027-04-01,0
+DUB-06,Backup Generators,2027-05-01,0
+SIN-07,GPU Servers,2026-07-01,1
+SIN-07,GPU Servers,2026-08-01,3
+SIN-07,GPU Servers,2026-09-01,5
+SIN-07,GPU Servers,2026-10-01,7
+SIN-07,GPU Servers,2026-11-01,9
+SIN-07,GPU Servers,2026-12-01,11
+SIN-07,GPU Servers,2027-01-01,13
+SIN-07,GPU Servers,2027-02-01,15
+SIN-07,GPU Servers,2027-03-01,17
+SIN-07,NVIDIA GPU Systems,2026-07-01,0
+SIN-07,NVIDIA GPU Systems,2026-08-01,0
+SIN-07,NVIDIA GPU Systems,2026-09-01,1
+SIN-07,NVIDIA GPU Systems,2026-10-01,1
+SIN-07,NVIDIA GPU Systems,2026-11-01,2
+SIN-07,NVIDIA GPU Systems,2026-12-01,2
+SIN-07,NVIDIA GPU Systems,2027-01-01,3
+SIN-07,NVIDIA GPU Systems,2027-02-01,3
+SIN-07,NVIDIA GPU Systems,2027-03-01,4
+SIN-07,InfiniBand Switches,2026-07-01,1
+SIN-07,InfiniBand Switches,2026-08-01,2
+SIN-07,InfiniBand Switches,2026-09-01,3
+SIN-07,InfiniBand Switches,2026-10-01,4
+SIN-07,InfiniBand Switches,2026-11-01,6
+SIN-07,InfiniBand Switches,2026-12-01,7
+SIN-07,InfiniBand Switches,2027-01-01,8
+SIN-07,InfiniBand Switches,2027-02-01,9
+SIN-07,InfiniBand Switches,2027-03-01,10
+SIN-07,Network Equipment,2026-07-01,1
+SIN-07,Network Equipment,2026-08-01,2
+SIN-07,Network Equipment,2026-09-01,4
+SIN-07,Network Equipment,2026-10-01,5
+SIN-07,Network Equipment,2026-11-01,7
+SIN-07,Network Equipment,2026-12-01,8
+SIN-07,Network Equipment,2027-01-01,9
+SIN-07,Network Equipment,2027-02-01,11
+SIN-07,Network Equipment,2027-03-01,12
+SIN-07,Transformers,2026-07-01,0
+SIN-07,Transformers,2026-08-01,0
+SIN-07,Transformers,2026-09-01,0
+SIN-07,Transformers,2026-10-01,0
+SIN-07,Transformers,2026-11-01,0
+SIN-07,Transformers,2026-12-01,0
+SIN-07,Transformers,2027-01-01,0
+SIN-07,Transformers,2027-02-01,0
+SIN-07,Transformers,2027-03-01,0
+SIN-07,Chillers,2026-07-01,0
+SIN-07,Chillers,2026-08-01,0
+SIN-07,Chillers,2026-09-01,0
+SIN-07,Chillers,2026-10-01,0
+SIN-07,Chillers,2026-11-01,0
+SIN-07,Chillers,2026-12-01,0
+SIN-07,Chillers,2027-01-01,0
+SIN-07,Chillers,2027-02-01,0
+SIN-07,Chillers,2027-03-01,0
+SIN-07,Cooling Systems,2026-07-01,0
+SIN-07,Cooling Systems,2026-08-01,0
+SIN-07,Cooling Systems,2026-09-01,1
+SIN-07,Cooling Systems,2026-10-01,1
+SIN-07,Cooling Systems,2026-11-01,2
+SIN-07,Cooling Systems,2026-12-01,2
+SIN-07,Cooling Systems,2027-01-01,3
+SIN-07,Cooling Systems,2027-02-01,3
+SIN-07,Cooling Systems,2027-03-01,4
+SIN-07,UPS Systems,2026-07-01,0
+SIN-07,UPS Systems,2026-08-01,0
+SIN-07,UPS Systems,2026-09-01,0
+SIN-07,UPS Systems,2026-10-01,0
+SIN-07,UPS Systems,2026-11-01,0
+SIN-07,UPS Systems,2026-12-01,0
+SIN-07,UPS Systems,2027-01-01,0
+SIN-07,UPS Systems,2027-02-01,0
+SIN-07,UPS Systems,2027-03-01,0
+SIN-07,Power Distribution Units,2026-07-01,3
+SIN-07,Power Distribution Units,2026-08-01,7
+SIN-07,Power Distribution Units,2026-09-01,10
+SIN-07,Power Distribution Units,2026-10-01,14
+SIN-07,Power Distribution Units,2026-11-01,18
+SIN-07,Power Distribution Units,2026-12-01,21
+SIN-07,Power Distribution Units,2027-01-01,25
+SIN-07,Power Distribution Units,2027-02-01,28
+SIN-07,Power Distribution Units,2027-03-01,32
+SIN-07,Storage Systems,2026-07-01,0
+SIN-07,Storage Systems,2026-08-01,0
+SIN-07,Storage Systems,2026-09-01,0
+SIN-07,Storage Systems,2026-10-01,0
+SIN-07,Storage Systems,2026-11-01,1
+SIN-07,Storage Systems,2026-12-01,1
+SIN-07,Storage Systems,2027-01-01,1
+SIN-07,Storage Systems,2027-02-01,1
+SIN-07,Storage Systems,2027-03-01,1
+SIN-07,Racks,2026-07-01,3
+SIN-07,Racks,2026-08-01,7
+SIN-07,Racks,2026-09-01,11
+SIN-07,Racks,2026-10-01,15
+SIN-07,Racks,2026-11-01,19
+SIN-07,Racks,2026-12-01,23
+SIN-07,Racks,2027-01-01,27
+SIN-07,Racks,2027-02-01,31
+SIN-07,Racks,2027-03-01,35
+SIN-07,Backup Generators,2026-07-01,0
+SIN-07,Backup Generators,2026-08-01,0
+SIN-07,Backup Generators,2026-09-01,0
+SIN-07,Backup Generators,2026-10-01,0
+SIN-07,Backup Generators,2026-11-01,0
+SIN-07,Backup Generators,2026-12-01,0
+SIN-07,Backup Generators,2027-01-01,0
+SIN-07,Backup Generators,2027-02-01,0
+SIN-07,Backup Generators,2027-03-01,0
+SLC-08,GPU Servers,2026-07-01,3
+SLC-08,GPU Servers,2026-08-01,6
+SLC-08,GPU Servers,2026-09-01,9
+SLC-08,GPU Servers,2026-10-01,13
+SLC-08,GPU Servers,2026-11-01,16
+SLC-08,GPU Servers,2026-12-01,19
+SLC-08,GPU Servers,2027-01-01,23
+SLC-08,GPU Servers,2027-02-01,26
+SLC-08,GPU Servers,2027-03-01,29
+SLC-08,GPU Servers,2027-04-01,33
+SLC-08,GPU Servers,2027-05-01,36
+SLC-08,GPU Servers,2027-06-01,39
+SLC-08,NVIDIA GPU Systems,2026-07-01,0
+SLC-08,NVIDIA GPU Systems,2026-08-01,1
+SLC-08,NVIDIA GPU Systems,2026-09-01,2
+SLC-08,NVIDIA GPU Systems,2026-10-01,3
+SLC-08,NVIDIA GPU Systems,2026-11-01,4
+SLC-08,NVIDIA GPU Systems,2026-12-01,4
+SLC-08,NVIDIA GPU Systems,2027-01-01,5
+SLC-08,NVIDIA GPU Systems,2027-02-01,6
+SLC-08,NVIDIA GPU Systems,2027-03-01,7
+SLC-08,NVIDIA GPU Systems,2027-04-01,8
+SLC-08,NVIDIA GPU Systems,2027-05-01,9
+SLC-08,NVIDIA GPU Systems,2027-06-01,9
+SLC-08,InfiniBand Switches,2026-07-01,2
+SLC-08,InfiniBand Switches,2026-08-01,4
+SLC-08,InfiniBand Switches,2026-09-01,6
+SLC-08,InfiniBand Switches,2026-10-01,8
+SLC-08,InfiniBand Switches,2026-11-01,10
+SLC-08,InfiniBand Switches,2026-12-01,12
+SLC-08,InfiniBand Switches,2027-01-01,14
+SLC-08,InfiniBand Switches,2027-02-01,16
+SLC-08,InfiniBand Switches,2027-03-01,18
+SLC-08,InfiniBand Switches,2027-04-01,20
+SLC-08,InfiniBand Switches,2027-05-01,22
+SLC-08,InfiniBand Switches,2027-06-01,24
+SLC-08,Network Equipment,2026-07-01,2
+SLC-08,Network Equipment,2026-08-01,4
+SLC-08,Network Equipment,2026-09-01,7
+SLC-08,Network Equipment,2026-10-01,9
+SLC-08,Network Equipment,2026-11-01,12
+SLC-08,Network Equipment,2026-12-01,14
+SLC-08,Network Equipment,2027-01-01,17
+SLC-08,Network Equipment,2027-02-01,19
+SLC-08,Network Equipment,2027-03-01,22
+SLC-08,Network Equipment,2027-04-01,24
+SLC-08,Network Equipment,2027-05-01,27
+SLC-08,Network Equipment,2027-06-01,29
+SLC-08,Transformers,2026-07-01,0
+SLC-08,Transformers,2026-08-01,0
+SLC-08,Transformers,2026-09-01,0
+SLC-08,Transformers,2026-10-01,0
+SLC-08,Transformers,2026-11-01,0
+SLC-08,Transformers,2026-12-01,0
+SLC-08,Transformers,2027-01-01,0
+SLC-08,Transformers,2027-02-01,0
+SLC-08,Transformers,2027-03-01,0
+SLC-08,Transformers,2027-04-01,0
+SLC-08,Transformers,2027-05-01,0
+SLC-08,Transformers,2027-06-01,0
+SLC-08,Chillers,2026-07-01,0
+SLC-08,Chillers,2026-08-01,0
+SLC-08,Chillers,2026-09-01,0
+SLC-08,Chillers,2026-10-01,0
+SLC-08,Chillers,2026-11-01,0
+SLC-08,Chillers,2026-12-01,0
+SLC-08,Chillers,2027-01-01,0
+SLC-08,Chillers,2027-02-01,0
+SLC-08,Chillers,2027-03-01,0
+SLC-08,Chillers,2027-04-01,0
+SLC-08,Chillers,2027-05-01,0
+SLC-08,Chillers,2027-06-01,0
+SLC-08,Cooling Systems,2026-07-01,0
+SLC-08,Cooling Systems,2026-08-01,1
+SLC-08,Cooling Systems,2026-09-01,2
+SLC-08,Cooling Systems,2026-10-01,3
+SLC-08,Cooling Systems,2026-11-01,4
+SLC-08,Cooling Systems,2026-12-01,4
+SLC-08,Cooling Systems,2027-01-01,5
+SLC-08,Cooling Systems,2027-02-01,6
+SLC-08,Cooling Systems,2027-03-01,7
+SLC-08,Cooling Systems,2027-04-01,8
+SLC-08,Cooling Systems,2027-05-01,9
+SLC-08,Cooling Systems,2027-06-01,9
+SLC-08,UPS Systems,2026-07-01,0
+SLC-08,UPS Systems,2026-08-01,0
+SLC-08,UPS Systems,2026-09-01,0
+SLC-08,UPS Systems,2026-10-01,0
+SLC-08,UPS Systems,2026-11-01,0
+SLC-08,UPS Systems,2026-12-01,0
+SLC-08,UPS Systems,2027-01-01,0
+SLC-08,UPS Systems,2027-02-01,0
+SLC-08,UPS Systems,2027-03-01,1
+SLC-08,UPS Systems,2027-04-01,1
+SLC-08,UPS Systems,2027-05-01,1
+SLC-08,UPS Systems,2027-06-01,1
+SLC-08,Power Distribution Units,2026-07-01,6
+SLC-08,Power Distribution Units,2026-08-01,12
+SLC-08,Power Distribution Units,2026-09-01,18
+SLC-08,Power Distribution Units,2026-10-01,24
+SLC-08,Power Distribution Units,2026-11-01,31
+SLC-08,Power Distribution Units,2026-12-01,37
+SLC-08,Power Distribution Units,2027-01-01,43
+SLC-08,Power Distribution Units,2027-02-01,49
+SLC-08,Power Distribution Units,2027-03-01,56
+SLC-08,Power Distribution Units,2027-04-01,62
+SLC-08,Power Distribution Units,2027-05-01,68
+SLC-08,Power Distribution Units,2027-06-01,74
+SLC-08,Storage Systems,2026-07-01,0
+SLC-08,Storage Systems,2026-08-01,0
+SLC-08,Storage Systems,2026-09-01,1
+SLC-08,Storage Systems,2026-10-01,1
+SLC-08,Storage Systems,2026-11-01,1
+SLC-08,Storage Systems,2026-12-01,2
+SLC-08,Storage Systems,2027-01-01,2
+SLC-08,Storage Systems,2027-02-01,2
+SLC-08,Storage Systems,2027-03-01,3
+SLC-08,Storage Systems,2027-04-01,3
+SLC-08,Storage Systems,2027-05-01,3
+SLC-08,Storage Systems,2027-06-01,4
+SLC-08,Racks,2026-07-01,6
+SLC-08,Racks,2026-08-01,13
+SLC-08,Racks,2026-09-01,20
+SLC-08,Racks,2026-10-01,26
+SLC-08,Racks,2026-11-01,33
+SLC-08,Racks,2026-12-01,40
+SLC-08,Racks,2027-01-01,47
+SLC-08,Racks,2027-02-01,53
+SLC-08,Racks,2027-03-01,60
+SLC-08,Racks,2027-04-01,67
+SLC-08,Racks,2027-05-01,74
+SLC-08,Racks,2027-06-01,80
+SLC-08,Backup Generators,2026-07-01,0
+SLC-08,Backup Generators,2026-08-01,0
+SLC-08,Backup Generators,2026-09-01,0
+SLC-08,Backup Generators,2026-10-01,0
+SLC-08,Backup Generators,2026-11-01,0
+SLC-08,Backup Generators,2026-12-01,0
+SLC-08,Backup Generators,2027-01-01,0
+SLC-08,Backup Generators,2027-02-01,0
+SLC-08,Backup Generators,2027-03-01,0
+SLC-08,Backup Generators,2027-04-01,0
+SLC-08,Backup Generators,2027-05-01,0
+SLC-08,Backup Generators,2027-06-01,0
