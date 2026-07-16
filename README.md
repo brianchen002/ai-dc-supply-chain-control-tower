@@ -16,7 +16,7 @@ center sites — with an automated ETL pipeline, two ML models, supplier
 scorecards, site readiness scoring, demand-gap analysis and interactive
 scenario planning.
 
-**🔗 Live demo:** _add your Streamlit Cloud URL_ ·
+**🔗 Live demo:** [ai-dc-supply-chain-control-tower.streamlit.app](https://ai-dc-supply-chain-control-tower.streamlit.app) ·
 **📋 Upgrade audit:** [PROJECT_UPGRADE_AUDIT.md](PROJECT_UPGRADE_AUDIT.md) ·
 **📐 Model docs:** [MODEL_DOCUMENTATION.md](MODEL_DOCUMENTATION.md)
 
@@ -66,7 +66,8 @@ both models → scoring → supplier/site/demand aggregates → SQLite → alert
 ## Quickstart
 
 ```bash
-git clone <this repo> && cd control-tower
+git clone https://github.com/brianchen002/ai-dc-supply-chain-control-tower.git
+cd ai-dc-supply-chain-control-tower
 pip install -r requirements.txt
 python -m src.pipeline          # build data, train models, load SQLite
 streamlit run dashboard/Home.py # (auto-runs the pipeline if you skip step 3)
