@@ -2,10 +2,13 @@
 from __future__ import annotations
 
 import json
+import sqlite3
+from pathlib import Path
 
 import pandas as pd
 import streamlit as st
 
+from config.settings import DB_PATH
 from src.db import get_connection
 from src.llm.client import get_client
 
@@ -18,8 +21,24 @@ SEVERITY_DOT = {"critical": "🔴", "high": "🟠", "medium": "🔵"}
 
 
 @st.cache_resource(show_spinner="Preparing data (first run executes the full pipeline)…")
+def _connect():
+    return get_connection()  # rebuilds automatically if DB is missing or corrupt
+
+
 def bootstrap():
-    return get_connection()  # runs the pipeline automatically if DB is missing
+    """Self-healing connection: if the cached connection or its underlying
+    file has gone bad, drop it, rebuild the database, and reconnect."""
+    conn = _connect()
+    try:
+        conn.execute("SELECT 1 FROM purchase_orders LIMIT 1").fetchone()
+        return conn
+    except sqlite3.Error:
+        _connect.clear()
+        try:
+            Path(DB_PATH).unlink()
+        except OSError:
+            pass
+        return _connect()
 
 
 @st.cache_resource

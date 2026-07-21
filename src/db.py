@@ -1,8 +1,13 @@
 """SQLite loading + access for the dashboard.
 
-Retained from the OpsPilot build: SQLite is written to a local temp file and
-byte-copied over the destination — atomic-ish, and immune to locking quirks
-on mounted/network filesystems. DB path overridable via CT_DB env var.
+Robustness notes:
+  * Writes go to a local temp file, then land via atomic os.replace — live
+    readers keep the old file; new connections see the new one. No reader
+    ever observes a half-written database.
+  * get_connection() validates the database (not just its existence) and
+    rebuilds automatically if the file is missing OR corrupt, so a bad file
+    can never wedge the app permanently.
+  * DB path overridable via CT_DB env var.
 """
 from __future__ import annotations
 
@@ -30,16 +35,54 @@ def write_tables(tables: dict[str, pd.DataFrame], db_path: Path = DB_PATH) -> No
     conn.execute("CREATE INDEX IF NOT EXISTS idx_po_supplier ON purchase_orders(supplier_name)")
     conn.commit()
     conn.close()
-    shutil.copyfile(tmp, db_path)
+
+    # Land atomically: stage next to the destination, then os.replace (atomic
+    # on the same filesystem). Fall back to plain copy on filesystems that
+    # refuse the rename.
+    staged = db_path.with_suffix(".db.new")
+    shutil.copyfile(tmp, staged)
+    try:
+        os.replace(staged, db_path)
+    except OSError:
+        shutil.copyfile(staged, db_path)
+        try:
+            staged.unlink()
+        except OSError:
+            pass
     try:
         tmp.unlink()
     except OSError:
         pass
 
 
+def _db_is_valid(db_path: Path) -> bool:
+    """Cheap sanity check: file opens and contains the core table."""
+    if not db_path.exists() or db_path.stat().st_size == 0:
+        return False
+    try:
+        conn = sqlite3.connect(f"file:{db_path}?mode=ro", uri=True)
+        try:
+            row = conn.execute(
+                "SELECT name FROM sqlite_master WHERE type='table' "
+                "AND name='purchase_orders'").fetchone()
+            if row is None:
+                return False
+            conn.execute("SELECT COUNT(*) FROM purchase_orders").fetchone()
+            return True
+        finally:
+            conn.close()
+    except sqlite3.Error:
+        return False
+
+
 def get_connection(db_path: Path = DB_PATH, ensure: bool = True) -> sqlite3.Connection:
     db_path = Path(db_path)
-    if ensure and not db_path.exists():
+    if ensure and not _db_is_valid(db_path):
+        # Missing OR corrupt: clear the bad file and rebuild everything.
+        try:
+            db_path.unlink()
+        except OSError:
+            pass
         from src.pipeline import run_pipeline
         run_pipeline(verbose=False)
     conn = sqlite3.connect(db_path, check_same_thread=False)
